@@ -12,7 +12,7 @@
 	* (her ders için ayrı menü seçeneği)
 * Ortalamanın üstünde not alan öğrenci numaraları ve bu öğrencilere ait notları görüntüleyen metod
 	* (her ders için ayrı menü seçeneği)
-* 60'dan küçük sınav sonuç değerlerinin sayısını veren metodu.
+* 60'dan küçük sınav sonuç değerlerinin sayısını veren metod
 * En yüksek sınav sonucunu veren metod
 	* (her ders için ayrı menü seçeneği)
 * En düşük sınav sonucunu veren metod
