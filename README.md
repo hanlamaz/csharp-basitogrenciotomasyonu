@@ -10,14 +10,14 @@
 	* (her ders için ayrı menü seçeneği)
 * 60'dan küçük sınav sonuçlarını ve bu sonuçlara ait öğrenci numaralarını ve isimlerini görüntüleyen metod
 	* (her ders için ayrı menü seçeneği)
-* Ortalamanın üstünde not alan öğrenci numaraları ve bu öğrencilere ait notları görüntüleyen metodu
+* Ortalamanın üstünde not alan öğrenci numaraları ve bu öğrencilere ait notları görüntüleyen metod
 	* (her ders için ayrı menü seçeneği)
 * 60'dan küçük sınav sonuç değerlerinin sayısını veren metodu.
-* En yüksek sınav sonucunu veren metodu
+* En yüksek sınav sonucunu veren metod
 	* (her ders için ayrı menü seçeneği)
-* En düşük sınav sonucunu veren metodu
+* En düşük sınav sonucunu veren metod
 	* (her ders için ayrı menü seçeneği)
-* Genel sınav sonuçlarına  göre küçükten büyüğe sıralı olarak öğrenci numaralarını, isimlerini  ve sınav sonuçlarını görüntüleyen metodu
+* Genel sınav sonuçlarına  göre küçükten büyüğe sıralı olarak öğrenci numaralarını, isimlerini  ve sınav sonuçlarını görüntüleyen metod
 	* (Genel sınav sonucu = bir öğrencinin üç dersten aldığı sınavların ortalaması )
-* Öğrenci numaralarına göre küçükten büyüğe sıralı olarak öğrenci numaralarını, isimlerini ve sınav sonuçlarını görüntüleyen metodu  yazınız
+* Öğrenci numaralarına göre küçükten büyüğe sıralı olarak öğrenci numaralarını, isimlerini ve sınav sonuçlarını görüntüleyen metod
 
